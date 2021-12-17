@@ -1,0 +1,10 @@
+/* Include fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap'); /* Cairo Famly */
+
+/* All */
+*{
+    font-family: Cairo, sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+}
